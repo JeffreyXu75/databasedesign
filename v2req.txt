@@ -1,0 +1,3 @@
+To create multiple playlists, add a new table that represents the relationships between users and playlists. Essentially, one table will store which songs go in which playlists, and another table will store which playlists coorespond to which users.
+
+To specify account type, add a new column to users that holds an enumerated type with the various types of accounts.
